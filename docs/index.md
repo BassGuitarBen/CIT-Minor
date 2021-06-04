@@ -1,8 +1,8 @@
-##Welcome to My CIT Minor Git Hub.
+Welcome to My CIT Minor Git Hub.
 
-##Here will be a list of CIT courses and there respective GitHub Pages.
+Here will be a list of CIT courses and there respective GitHub Pages.
 
-###[CIT 281](https://bassguitarben.github.io/CIT281/)
+[CIT 281](https://bassguitarben.github.io/CIT281/)
 
 
 -[Lab 1](https://bassguitarben.github.io/cit281-lab1/)
