@@ -2,7 +2,7 @@
 
 ##Here will be a list of CIT courses and there respective GitHub Pages.
 
-###[CIT 281](https://bassguitarben.github.io/cit281-p2/p2.js)
+###[CIT 281](https://bassguitarben.github.io/CIT281/)
 
 
 -[Lab 1](https://bassguitarben.github.io/cit281-lab1/)
