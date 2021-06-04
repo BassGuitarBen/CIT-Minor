@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+#Welcome to My CIT Minor Git Hub.
 
-You can use the [editor on GitHub](https://github.com/BassGuitarBen/CIT-Minor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##Here will be a list of CIT courses and there respective GitHub Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###[CIT 281](https://bassguitarben.github.io/cit281-p2/p2.js)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[Lab 1](https://bassguitarben.github.io/cit281-lab1/)
 
-```markdown
-Syntax highlighted code block
+-[Lab 2](https://bassguitarben.github.io/cit281-lab2/)
 
-# Header 1
-## Header 2
-### Header 3
+-[Lab 3](https://bassguitarben.github.io/cit281-lab3/)
 
-- Bulleted
-- List
+-[Lab 4](https://bassguitarben.github.io/cit281-lab4/)
 
-1. Numbered
-2. List
+-[Lab 5](https://bassguitarben.github.io/cit281-lab5/)
 
-**Bold** and _Italic_ and `Code` text
+-[Lab 6](https://bassguitarben.github.io/cit281-lab6/)
 
-[Link](url) and ![Image](src)
-```
+-[Lab 7](https://bassguitarben.github.io/cit281-lab7/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-[Lab 8](https://bassguitarben.github.io/cit281-lab8/)
 
-### Jekyll Themes
+-[Lab 9](https://bassguitarben.github.io/cit281-lab9/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BassGuitarBen/CIT-Minor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-[Project 1](https://bassguitarben.github.io/cit281-p1/)
 
-### Support or Contact
+-[Project 2](https://bassguitarben.github.io/cit281-p2/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-[Project 3](https://bassguitarben.github.io/cit281-p3/)
+
+-[Project 4](https://bassguitarben.github.io/cit281-p4/)
+
+-[Project 5](https://bassguitarben.github.io/cit281-p5/)
+
+-[Project 6](https://bassguitarben.github.io/cit281-p6/)
+
+-[Project 7](https://bassguitarben.github.io/cit281-p7/)
